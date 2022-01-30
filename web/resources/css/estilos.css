@@ -1,0 +1,111 @@
+body{
+    background-color: lightcyan;
+}
+.fondoNegro{
+    background-color: black;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+table{
+    border: 2px solid #999999;
+    border-color: black;
+    border-collapse: collapse;
+    text-align: center;
+} 
+tr{
+    border: 1px solid #999999;
+    border-color: black;
+
+} 
+td{
+    border: 1px solid #999999;
+    border-color: black;
+    background-color: burlywood;
+    padding: 3px 10px;
+}
+th{
+    padding: 2px 5px;
+    border: 3px solid #999999;
+    border-color: black;
+    background-color: greenyellow;
+}
+caption{
+    border: 3px solid #999999;
+    border-color: black;
+    background-color: yellow;
+}
+.captionD {
+    background-color: yellow;
+    text-align: center;
+    display: table-caption;
+    caption-side: top;
+    border: 3px solid #999999;
+    border-color: black;
+}
+.divTable{
+    display: table;
+    width: 50%;
+}
+.divTable2{
+    display: table;
+    width: 200%;
+    padding: 2px 5px;
+}
+.divTable3{
+    text-align: center;
+    background-color: black;
+}
+.divTable4{
+    border: 3px solid #999999;
+    border-color: black;
+    background-color: lightgreen;
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+.divTable5{
+    border: 3px solid #999999;
+    border-color: black;
+    background-color: orangered;
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+.divTableRow {
+    width: 100%;
+    display: table-row;
+}
+.divTableCell {
+    border: 1px solid #999999;
+    border-color: black;
+    display: table-cell;
+    padding: 3px 10px;
+}
+.divTableCell2 {
+    background-color: lightskyblue;
+    border: 1px solid #999999;
+    border-color: black;
+    display: table-cell;
+    padding: 3px 10px;
+}
+.divTableCell3 {
+    border: 1px solid #999999;
+    border-color: black;
+    display: table-cell;
+    padding: 3px 10px;
+}
+.divTableBody {
+    display: table-row-group;
+
+}
+.subrayado {
+    text-decoration: underline;
+}
+.centrado {
+    text-align: center;
+}
+
